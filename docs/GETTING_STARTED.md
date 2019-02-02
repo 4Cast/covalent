@@ -2,8 +2,6 @@
 
 Get started with Covalent using the Angular CLI.
 
-See the  [material getting started](https://github.com/angular/material2/blob/master/guides/getting-started.md) for instructions.
-
 ## Install the CLI
  
 ```bash
@@ -17,6 +15,10 @@ ng new my-project
 ```
 
 The new command creates a project with a build system for your Angular app.
+
+## Install the Material Modules
+
+See the  [material getting started](https://github.com/angular/material2/blob/master/guides/getting-started.md) for instructions.
 
 ## Install Covalent Core module 
 
